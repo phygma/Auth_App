@@ -152,15 +152,7 @@ Access content restricted to users with the admin role.
 }
 
 ```
----### 📛 Error Responses
-
-Common responses include:
-
-- `401 Unauthorized` – Invalid or expired token.
-- `403 Forbidden` – Insufficient permissions.
-- `400 Bad Request` – Validation error or missing fields.
-- `500 Internal Server Error` – Something went wrong.
-
+---
 ### 📛 Error Responses
 
 Common responses include:
@@ -169,6 +161,7 @@ Common responses include:
 - `403 Forbidden` – Insufficient permissions.
 - `400 Bad Request` – Validation error or missing fields.
 - `500 Internal Server Error` – Something went wrong.
+
 
 ---
 ## 🔒 Security Overview
